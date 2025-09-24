@@ -94,4 +94,4 @@ This project aims to:
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository FAQ
