@@ -1,0 +1,43 @@
+# --------------------
+# Python cache / bytecode
+# --------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --------------------
+# Jupyter Notebook
+# --------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --------------------
+# Virtual environments
+# --------------------
+venv/
+.env/
+*.env
+.envrc
+
+# --------------------
+# Data (raw/processed)
+# --------------------
+data/raw/*
+data/processed/*
+!data/.gitkeep   # keep folder structure in Git
+
+# --------------------
+# System / IDE files
+# --------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --------------------
+# Logs
+# --------------------
+*.log
+logs/
