@@ -94,4 +94,25 @@ This project aims to:
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository FAQ
+
+---
+
+## 📊 Deliverables
+- **Volatility Smiles & Skews** (plots, anomalies explained).  
+- **Interpolated Volatility Surfaces** (market vs SABR vs Heston).  
+- **Arbitrage Check Report** (no-arbitrage surface validation).  
+- **Trading Backtest Results** (PnL distribution, risk metrics).  
+- **Interactive Dashboard** (3D surface, strategy explorer).  
+- **Final Report (PDF)** with methodology, math, and insights.  
+
+---
+
+## ⚖️ Skills Developed
+- **Mathematical Finance** (stochastic calculus, PDEs, volatility modeling).  
+- **Statistical Analysis** (curve fitting, error modeling, hypothesis testing).  
+- **Programming & Engineering** (data pipeline design, modular quant code).  
+- **Critical Thinking** (financial intuition, trader’s mindset).  
+- **Communication** (visualization, storytelling for insights).  
+
+---
